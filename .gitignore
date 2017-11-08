@@ -1,6 +1,6 @@
 node_modules
-dist/**/*.js
-dist/**/*.js.map
+out/**/*.js
+out/**/*.js.map
 typings
 src/**/*.js
 src/**/*.ts
