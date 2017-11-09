@@ -9,10 +9,9 @@
     "typescript": "^2.6.1"
   },
   "scripts": {
-    "clean": "rimraf dist/*",
+    "clean": "rimraf out/*",
     "tsc": "tsc",
-    "cleanbuild": "npm run clean && npm run tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cleanbuild": "npm run clean && npm run tsc"
   },
   "author": "Brian",
   "license": "none"

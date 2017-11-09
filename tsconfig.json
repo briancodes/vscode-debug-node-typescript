@@ -6,6 +6,9 @@
     "noImplicitAny": false,
     "module": "commonjs",
     "target": "es5",
-    "allowJs": true    
+    "allowJs": true ,
+    "removeComments": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   }
 }
